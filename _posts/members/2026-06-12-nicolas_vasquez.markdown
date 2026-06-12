@@ -6,7 +6,7 @@ date: 2026-06-12
 author: Nicolás Vásquez
 categories:
 - current_member
-img: nv.png
+img: nv.jpg
 position: Postdoctoral Associate in Hydrology
 social:
 - title: envelope 
