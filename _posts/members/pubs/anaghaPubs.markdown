@@ -1,0 +1,2 @@
+Peringiyil, A., Saharia, M., O. P., S., Wood, A.W., Mohapatra, M., Sabde, B., Kumari, A., Phadkar, B., C. T., S., P., R., K. S., H., Rajeevan, M., 2025. A station-based 0.1-degree daily gridded ensemble precipitation dataset for India. Sci Data 12, 333. https://doi.org/10.1038/s41597-025-04474-2
+Peringiyil, A., Saharia, M., 2026. Improved Identification of Extreme Rainfall Events in the Himalayan Foothills Using an Observation‐Based Ensemble Precipitation Dataset. Intl Journal of Climatology e70412. https://doi.org/10.1002/joc.70412
