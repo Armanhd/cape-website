@@ -6,7 +6,7 @@ date: 2020-01-01 # don't change - this is used for sorting only
 author: Alain Pietroniro
 categories:
 - current_member
-img: missing_member.jpg
+img: pietroniro.jpg
 position: Canada Research Chair in Sustainable Water Systems
 social:
 - title: envelope #use for email address
@@ -18,7 +18,7 @@ education:
   degree: PhD
   year: 1992
 - school: University of Waterloo
-  location: University of Calgary
+  location: Waterloo, Ontario, Canada
   program: Civil Engineering
   degree: MSc
   year: 1988
@@ -28,11 +28,11 @@ positions_held:
   location: Calgary, Alberta, CANADA
   period: 2021-present
 - position: Executive Director
-  employer: National Hydrologcical Service, Meteorlogical Service of Canada, Environment and Climate Change Canada
+  employer: National Hydrological Service, Meteorological Service of Canada, Environment and Climate Change Canada
   location: Saskatoon, SK, CANADA 
   period: 2006-2020
 - position: Research Scientist
-  employer: National Hydrology Reserach Centre
+  employer: National Hydrology Research Centre
   location: Saskatoon, SK
   period: 1992-2006
 ---
